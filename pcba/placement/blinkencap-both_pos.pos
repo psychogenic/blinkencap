@@ -1,0 +1,60 @@
+### Module positions - created on Wed 09 Oct 2024 05:19:14 PM  ###
+### Printed by KiBot
+## Unit = mm, Angle = deg.
+## Side : both
+# Ref            Val                       Package                                 PosX      PosY      Rot         Side  
+ASICCAP_SILK     asic_capsilk_2            asic_capsilk_2                          28.1000   11.6000   0.0000      top   
+C1               10uF                      C_0805_2012Metric                       38.5000   15.0000   180.0000    bottom
+C2               1uF                       C_0603_1608Metric                       38.5000   20.9000   180.0000    bottom
+C3               100nF                     C_0402_1005Metric                       38.9000   22.1000   180.0000    bottom
+C4               10uF                      C_0805_2012Metric                       23.0000   15.0000   90.0000     bottom
+C5               100nF                     C_0402_1005Metric                       31.6000   34.1000   -135.0000   bottom
+C6               100nF                     C_0402_1005Metric                       36.5000   29.3000   -135.0000   bottom
+C7               100nF                     C_0402_1005Metric                       27.1000   20.2000   45.0000     bottom
+C8               100nF                     C_0402_1005Metric                       37.2000   28.5000   -135.0000   bottom
+C9               100nF                     C_0402_1005Metric                       34.3606   22.4394   135.0000    bottom
+C10              100nF                     C_0402_1005Metric                       23.2394   24.7394   45.0000     bottom
+C11              100nF                     C_0402_1005Metric                       28.1000   19.6000   45.0000     bottom
+C12              100nF                     C_0402_1005Metric                       24.9000   31.5000   -45.0000    bottom
+C13              100nF                     C_0402_1005Metric                       27.8394   33.9606   -45.0000    bottom
+C14              1uF                       C_0603_1608Metric                       24.9000   20.1000   -135.0000   bottom
+C15              1uF                       C_0603_1608Metric                       6.5000    23.3750   90.0000     bottom
+C16              100nF                     C_0402_1005Metric                       5.3000    23.4750   90.0000     bottom
+C17              C_470n_0603_50V           C_0805_2012Metric                       12.9000   31.2000   90.0000     bottom
+C18              C_470n_0603_50V           C_0805_2012Metric                       17.5000   25.8000   90.0000     bottom
+C19              C_470n_0603_50V           C_0805_2012Metric                       11.3000   21.1000   0.0000      bottom
+D1               T36K3BGR-05D000121U1930   LED_T36K3BGR-05D000121U1930             6.6900    8.6400    18.5000     bottom
+FID1             Fiducial                  Fiducial_0.5mm_Mask1mm                  47.9000   15.8000   180.0000    bottom
+FID2             Fiducial                  Fiducial_0.5mm_Mask1mm                  14.9000   34.8000   180.0000    bottom
+FID3             Fiducial                  Fiducial_0.5mm_Mask1mm                  14.9000   8.8000    180.0000    bottom
+J1               Conn_02x03_Odd_Even       PinHeader_2x03_P2.54mm_Vertical_SMD     28.4000   10.3000   90.0000     bottom
+Q1               DMN2005K                  SOT-23                                  7.4000    14.3000   -90.0000    bottom
+Q2               DMN2005K                  SOT-23                                  3.8000    14.3000   -90.0000    bottom
+Q3               DMN2005K                  SOT-23                                  10.8000   14.3000   -90.0000    bottom
+R1               R_0R_0402                 R_0402_1005Metric                       34.4000   11.6000   90.0000     bottom
+R2               R_0R_0402                 R_0402_1005Metric                       33.4000   11.6000   -90.0000    bottom
+R3               R_10k_0402                R_0402_1005Metric                       27.5000   17.1000   0.0000      bottom
+R4               R_10k_0402                R_0402_1005Metric                       33.4000   7.7000    -90.0000    bottom
+R5               R_10k_0402                R_0402_1005Metric                       33.4000   9.7000    90.0000     bottom
+R6               R_0R_0402                 R_0402_1005Metric                       29.7000   17.1000   180.0000    bottom
+R7               R_412_0402                R_0402_1005Metric                       3.5000    10.5500   18.8000     bottom
+R8               R_10k_0402                R_0402_1005Metric                       6.6000    17.7000   0.0000      bottom
+R9               R_22R_0402                R_0402_1005Metric                       6.6000    16.7000   180.0000    bottom
+R10              R_412_0402                R_0402_1005Metric                       11.1000   10.0000   108.8000    bottom
+R11              R_10k_0402                R_0402_1005Metric                       3.0000    17.7000   0.0000      bottom
+R12              R_22R_0402                R_0402_1005Metric                       3.0000    16.7000   180.0000    bottom
+R13              R_412_0402                R_0402_1005Metric                       2.0000    8.0500    108.8000    bottom
+R14              R_10k_0402                R_0402_1005Metric                       10.3850   17.7000   0.0000      bottom
+R15              R_22R_0402                R_0402_1005Metric                       10.3850   16.7000   180.0000    bottom
+R16              R_1M_0603                 R_0603_1608Metric                       11.1000   31.0000   90.0000     bottom
+R17              R_0R_0402                 R_0402_1005Metric                       24.6000   33.1000   180.0000    bottom
+R20              R_1k_0402                 R_0402_1005Metric                       6.3000    25.4000   180.0000    bottom
+R21              R_1k_0402                 R_0402_1005Metric                       17.5000   23.6000   180.0000    bottom
+R22              R_1M_0603                 R_0603_1608Metric                       17.3000   29.0000   -90.0000    bottom
+R23              R_1k_0402                 R_0402_1005Metric                       9.8000    19.6000   180.0000    bottom
+R24              R_1M_0603                 R_0603_1608Metric                       12.3000   19.3000   180.0000    bottom
+TTCurvyText      asichat_tttext            asichat_tttext                          34.9694   -1.4571   180.0000    bottom
+U1               AP2112K-1.8               SOT-23-5                                38.5000   18.1000   90.0000     bottom
+U2               Caravel_QFN_TT4           QFN-64-1EP_9x9mm_P0.5mm_EP7.65x7.65mm   29.8092   27.0841   135.0000    bottom
+U3               SN74HC14DR                SOIC-14_3.9x8.7mm_P1.27mm               11.9000   25.8000   -90.0000    bottom
+## End
